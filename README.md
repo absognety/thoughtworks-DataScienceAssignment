@@ -1,6 +1,6 @@
 # thoughtworks-DataScienceAssignment
 
-+ Open ###Git Bash
+###Git Bash - Installit from <https://git-scm.com/downloads>
 
 + `git clone https://github.com/absognety/thoughtworks-DataScienceAssignment.git`
 
