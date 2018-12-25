@@ -8,4 +8,4 @@
 
 + Change `file_path` to your directory where `trainingData.csv` resides
 
-+ `$ python tworks_MLproblem.py`
++ `$ python tworks_MLproblem.py` from shell terminal/cmd
